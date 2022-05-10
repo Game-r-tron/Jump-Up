@@ -23,28 +23,31 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Examples/Roguelike/Roguelike.unity
     guid: ad15a26015e49439387b05c22fe7a962
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/lander_00.unity
-    guid: 582d371c130254cc684eadcb5ba92f8b
-  - enabled: 1
-    path: Assets/Scenes/lander_01.unity
-    guid: 31a4ed282c1774d038ed05aa7bda67d3
-  - enabled: 1
-    path: Assets/Scenes/lander_02.unity
-    guid: 40820d85543c64a958c80d82a7d9a2c2
-  - enabled: 1
-    path: Assets/Scenes/lander_03.unity
-    guid: 92008c8871ab840ca86104f4a6919ae6
-  - enabled: 1
-    path: Assets/Scenes/lander_04.unity
-    guid: 1ff66aed9f1c74a20b9e913915e98991
-  - enabled: 1
-    path: Assets/Scenes/lander_05.unity
-    guid: 40df1a61cf9fa4ce7bec9efa79731778
-  - enabled: 1
-    path: Assets/Scenes/lander_06.unity
-    guid: 2e0463fe688ba40ad8568ff10cfec6ae
-  - enabled: 1
-    path: Assets/Scenes/lander_xx.unity
-    guid: 3727ee0f8fa874e7a9ea32d2da214f31
+    path: Assets/Scenes/Jump up_01.unity
+    guid: 7ded18df7ac3aee1e883f1b3ac1e1440
   m_configObjects: {}
