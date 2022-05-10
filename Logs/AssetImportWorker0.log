@@ -197,3 +197,4 @@ Received Import Request.
   path: Assets/Images/PngItem_5842913.png
   artifactKey: Guid(2d1d2dbebe6734304a92c30fc18021f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Images/PngItem_5842913.png using Guid(2d1d2dbebe6734304a92c30fc18021f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4131f6e05f7202e85b8a4ddd98f7dfaa') in 0.078049 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

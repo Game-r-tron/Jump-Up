@@ -191,3 +191,4 @@ Received Import Request.
   path: Assets/Images/lander-lnurl-qr.png
   artifactKey: Guid(04111031fd19a4d13bb82f6e826c28da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Images/lander-lnurl-qr.png using Guid(04111031fd19a4d13bb82f6e826c28da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760cdebb5a1966bf3b40b3139b262694') in 0.078763 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
